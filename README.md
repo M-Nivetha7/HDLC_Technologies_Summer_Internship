@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=HDLC+TECHNOLOGIES+SUMMER+INTERNSHIP" />
 </p>
 
-# Offer Letter
+# OFFER LETTER
 <img width="530" height="681" alt="Screenshot 2026-06-11 at 3 49 23 PM" src="https://github.com/user-attachments/assets/1e835125-3e97-4374-b4e4-13eeabbd6296" />
 
 # FINAL ASSESSMENT
