@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&duration=3000&pause=1000&color=FFFF00&center=true&vCenter=true&width=1000&lines=HDLC+TECHNOLOGIES+SUMMER+INTERNSHIP" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=HDLC+TECHNOLOGIES+SUMMER+INTERNSHIP" />
 </p>
 
 # Offer Letter
