@@ -3,7 +3,8 @@
 </p>
 
 # OFFER LETTER
-[Internship Offer - Nivetha M (1).pdf](https://github.com/user-attachments/files/29215041/Internship.Offer.-.Nivetha.M.1.pdf)
+<img width="556" height="716" alt="Screenshot 2026-06-22 at 10 13 29 PM" src="https://github.com/user-attachments/assets/2e660ef9-358d-4148-b240-0b6c58ba6c1d" />
+
 
 
 # FINAL ASSESSMENT
