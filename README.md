@@ -9,3 +9,6 @@
 
 # FINAL ASSESSMENT
 <img width="538" height="528" alt="Screenshot 2026-06-20 at 4 14 14 PM" src="https://github.com/user-attachments/assets/8626b233-68c1-487f-8976-8bdfc6873b81" />
+
+# COMPLETION CERTIFICATE
+<img width="795" height="446" alt="Screenshot 2026-06-29 at 10 22 35 PM" src="https://github.com/user-attachments/assets/479366fb-fecf-4531-b838-959191a92271" />
